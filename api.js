@@ -47,3 +47,4 @@ app.get('/play/', async(req,res) => {
 	}
 });
 
+module.exports = server;
